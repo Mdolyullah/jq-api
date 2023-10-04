@@ -1,0 +1,102 @@
+.cm{
+	margin-bottom: 90px;
+}
+.mb-200{
+	margin-bottom: 400px;
+}
+.ques{
+	background-color: #83dd9e;
+	padding: 30px 20px;
+	cursor: pointer;
+}
+.answ{
+	background-color: green;
+	padding: 50px 20px;
+	color: white;
+	display: none;
+}
+
+/* slideToggle*/
+.pa {
+    color: red;
+    margin: 5px;
+    cursor: pointer;
+  }
+.pa:hover {
+    background: yellow;
+  }
+
+/*  animate*/
+ .anm {
+    background-color: #bca;
+    width: 100px;
+    border: 1px solid green;
+  }
+
+/*  fadeIn*/
+   span {
+    color: red;
+    cursor: pointer;
+  }
+  h2{
+    margin: 3px;
+    width: 80px;
+    display: none;
+    height: 80px;
+    float: left;
+  }
+  .one {
+    background: #f00;
+  }
+  .two {
+    background: #0f0;
+  }
+  .three {
+    background: #00f;
+  }
+
+/*  contextmenu event*/
+
+  h3 {
+    background: blue;
+    color: white;
+    height: 100px;
+    width: 150px;
+ }
+  h3.contextmenu {
+    background: yellow;
+    color: black;
+  }
+
+/*  dblclick event*/
+   demo1{
+    background: blue;
+    color: white;
+    height: 100px;
+    width: 150px;
+ }
+  demo1.dbl{
+    background: yellow;
+    color: black;
+  }
+
+/*  hover*/
+	ul {
+    margin-left: 20px;
+    color: blue;
+  }
+  li {
+    cursor: default;
+  }
+  li.active {
+    background: black;
+    color: white;
+  }
+  span {
+    color:red;
+  }
+
+/*focus event*/
+   mspan {
+    display: none;
+  }
